@@ -6,8 +6,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.283783
-  lightness: 0.222949
+  brandStrength: 0
+  lightness: 0
   rhythmicContrast: 0
   saturation: 0
 cta: {}
