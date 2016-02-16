@@ -1,0 +1,28 @@
+name: The Minnesota Dance Report
+favicon: null
+layout_spectrum: 0.37461171252653
+typography_spectrum: 0.1472697826102376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.033449886133894324
+  lightness: 0.22294977540150285
+  saturation: 0.9046409965958446
+  rhythmicContrast: 0.4130717155057937
+purpose: []
