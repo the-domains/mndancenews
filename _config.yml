@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#C0B890'
+    - '#000000'
+    - '#A09878'
+    - '#000000'
+    - '#000000'
   brandStrength: 0
-  lightness: 0
+  lightness: 1
   rhythmicContrast: 0
-  saturation: 0
+  saturation: 0.451576
 cta: {}
 layout_spectrum: 0.95786
 name: The Minnesota Dance Report
